@@ -10,7 +10,7 @@ HTTP가 브라우저와 통신을 하기 위해 만들어진 프로토콜이라�
 실습:
 
 DigitalOcean이란?
-https://www.digitalocean.com/
+https://cdn-images-1.medium.com/max/800/1*lYBKJmMiWuRTOYV2jUM0WA.gif
 DigitalOcean concentrates on three key selling points to stand out: simplicity, pricing, and high-performance virtual servers. They zero in on giving developers an easy and quick way to set up affordable Linux instances which they call droplets. DigitalOcean supports most of the modern Linux distros; Ubuntu, Fedora, Debian, and CentOS. It is straightforward to set up several applications on their droplets e.g. Ruby on Rails, LAMP, Ghost, Docker or stack.
 
 Finally, DigitalOcean prides itself with a simple, user-friendly setup. Targeting developers only, providing Linux virtual machines and DNS management. It lacks hosted databases, configuration management, analytics, load balancing among others. DigitalOcean proudly markets themselves as a bare-bones IaaS provider for Linux developers.
