@@ -3,11 +3,10 @@ title: "SSH!"
 date: 2017-10-20 08:26:28 -0400
 categories: ssh webdev web
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ssh(secure shell)은 프로토콜의 일종이다. 프로토콜의 종류로는 HTTP, FTP, HTTPS 등이 있다. HTTP는 브라우저와 웹서버간 통신을 위한 프로토콜이고, FTP는 로컬에서 호스팅 컴퓨터에 파일업로드시에 쓰인다. HTTPS는 HTTP와 비슷하지만 암호화된 형태이다. 이외에도 메일 전송에 쓰이는 프로토콜인 IMAP 등이 있다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+HTTP가 브라우저와 통신을 하기 위해 만들어진 프로토콜이라면 shell은 OS와 통신하기 위해 만들어진 프로토콜이다. SSH는 암호화된 shell 프로토콜이라는 점에서 HTTPS와 유사하다.
 
-Jekyll also offers powerful support for code snippets:
 
 
 ```python
