@@ -64,7 +64,7 @@ Symmetrical Encryption을 할 때에 Diffie Hellman Key Exchange을 키 교환 �
 
 
 
-지난 회 [SSH!-실습편] 확인은 이곳에서! : https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md
+지난 회 [SSH!-실습편] 확인은 이곳에서! : [SSH!-실습편]
 
 <b>MUST 구독!</b> ssh에 관한 암호 이론을 직관적으로 설명하는 유튜브 채널 Computerphile 링크!:
 
