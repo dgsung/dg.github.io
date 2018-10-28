@@ -53,7 +53,7 @@ Alice와 Bob은 각각 private 키를 로컬에서 안전하게 보관한다. �
 
 Symmetrical Encryption을 할 때에 Diffie Hellman Key Exchange을 키 교환 알고리즘으로 이용한다고 위에서 언급했다. Elliptic Curves는 Diffie Hellman Key Exchange의 대체 알고리즘으로서 비가역적 연산과정으로 modulo 연산을 이용하는 대신에 대수기하학적으로 elliptic curve를 이용한다. Elliptic Curves를 이용했을 때 연산량이 더 적기 때문에 이 알고리즘을 이용한다. 자세한 설명은 링크([What is the math behind elliptic curve cryptography?][What is the math behind elliptic curve cryptography?])를 첨부한다.
 
-본 글은 수학적 내용을 추상화하여 글로 표현했기 때문에 이해에 한계가 있을 수 있습니다. 아래 링크에 걸어둔 Computerphile의 영상과 함께 보시면 보다 시각적인 이해도를 높일 수 있습니다.
+본 글은 수학적 내용을 추상화하여 글로 표현했기 때문에 이해에 한계가 있을 수 있다. 따라서 아래 링크에 걸어둔 Computerphile의 영상과 함께 보시면 보다 시각적인 이해도를 높일 수 있다.
 
 감사합니다!
 
