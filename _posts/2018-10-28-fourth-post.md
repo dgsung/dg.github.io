@@ -61,13 +61,13 @@ Symmetrical Encryption을 할 때에 Diffie Hellman Key Exchange을 키 교환 �
 
 MUST 구독! ssh에 관한 암호 이론을 직관적으로 설명하는 유튜브 채널 Computerphile 링크!:
 
-<a href='https://www.youtube.com/watch?v=NmM9HA2MQGI'/>
+<a href='https://www.youtube.com/watch?v=NmM9HA2MQGI'>Secret Key Exchane<a>
 
-<a href='https://www.youtube.com/watch?v=Yjrfm_oRO0w'/>
+<a href='https://www.youtube.com/watch?v=Yjrfm_oRO0w'>Diffie Hellman<a>
 
-<a href='https://www.youtube.com/watch?v=vsXMMT2CqqE&t='/>
+<a href='https://www.youtube.com/watch?v=vsXMMT2CqqE&t='>Key Exchange Problems<a>
 
-<a href='https://www.youtube.com/watch?v=NF1pwjL9-DE'/>
+<a href='https://www.youtube.com/watch?v=NF1pwjL9-DE'>Elliptic Curves - Computerphile<a>
 
 
 [SSH!-실습편]: https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md
