@@ -1,5 +1,5 @@
 ---
-title: "SSH!"
+title: "SSH!-실습편"
 date: 2017-10-20 08:26:28 -0400
 categories: ssh webdev web
 ---
@@ -34,6 +34,12 @@ git clone https
 git clone ssh
 
 rsync -av . root@{}:~/
+
+Encryption
+Symmetrical Encryption
+key exchang algorithm - Difiie Hellman Key Exchange
+Asymmetrical Encryption
+Hashing
 
 More information on apt-get : https://help.ubuntu.com/community/AptGet/Howto
 More information on rsync : https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
