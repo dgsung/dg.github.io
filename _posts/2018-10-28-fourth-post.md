@@ -6,7 +6,7 @@ categories: ssh webdev web
 ssh는 서로 다른 두 컴퓨터에서 remote로 암호 통신을 하기 위한 프로토콜이다. HTTPS와 다른 점은 HTTPS는 인터넷 통신을 위한 것이라면 ssh는 서로 다른 두 컴퓨터 os 끼리의 통신을 위한 것이라는 점이다.
 
 이번
-<a src='https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md'>dd</a>
+<a href='https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md'>dd</a>
 ```ssh
 ssh {user}@{host}
 ```
