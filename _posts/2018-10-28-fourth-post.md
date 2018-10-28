@@ -20,7 +20,7 @@ Symmetrical Encryption이란 서로 암호 통신을 하고자하는 객체 Alic
 
 여기서 키 교환 알고리즘이 등장한다. 키 교환 알고리즘이란 암호 통신을 하는 두 객체가 비가역적인 수학 연산을 이용해 서로의 고유 키를 안전하게 교환하여 동일한 키를 갖게 하는 알고리즘을 말한다. 
 
-   <b>비가역적 연산을 이용한 암호화</b>
+<b>   비가역적 연산을 이용한 암호화</b>
     
     (본 글에서는 수학적인 암호 연산과정을 최대한 추상화하여 핵심적인 컨셉만 설명하니 걱정말길 바란다!)
     비가역적인 연산인 modulo라는 것을 정의하도록 하자. 
@@ -49,7 +49,7 @@ Alice와 Bob은 각각 private 키를 로컬에서 안전하게 보관한다. �
 
 <b>별첨: Elliptic Curve Cryptography</b>
 
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Elliptic_curve_on_Z61.svg/275px-Elliptic_curve_on_Z61.svg.png'></img>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Elliptic_curve_on_Z61.svg/275px-Elliptic_curve_on_Z61.svg.png'/>
 
 Symmetrical Encryption을 할 때에 Diffie Hellman Key Exchange을 키 교환 알고리즘으로 이용한다고 위에서 언급했다. Elliptic Curves는 Diffie Hellman Key Exchange의 대체 알고리즘으로서 비가역적 연산과정으로 modulo 연산을 이용하는 대신에 대수기하학적으로 elliptic curve를 이용한다. Elliptic Curves를 이용했을 때 연산량이 더 적기 때문에 이 알고리즘을 이용한다. 자세한 설명은 링크([What is the math behind elliptic curve cryptography?][What is the math behind elliptic curve cryptography?])를 첨부한다.
 
@@ -61,13 +61,13 @@ Symmetrical Encryption을 할 때에 Diffie Hellman Key Exchange을 키 교환 �
 
 MUST 구독! ssh에 관한 암호 이론을 직관적으로 설명하는 유튜브 채널 Computerphile 링크!:
 
-https://www.youtube.com/watch?v=NmM9HA2MQGI
+<a href='https://www.youtube.com/watch?v=NmM9HA2MQGI'/>
 
-https://www.youtube.com/watch?v=Yjrfm_oRO0w
+<a href='https://www.youtube.com/watch?v=Yjrfm_oRO0w'/>
 
-https://www.youtube.com/watch?v=vsXMMT2CqqE&t=
+<a href='https://www.youtube.com/watch?v=vsXMMT2CqqE&t='/>
 
-https://www.youtube.com/watch?v=NF1pwjL9-DE
+<a href='https://www.youtube.com/watch?v=NF1pwjL9-DE'/>
 
 
 [SSH!-실습편]: https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md
