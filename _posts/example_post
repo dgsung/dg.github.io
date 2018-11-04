@@ -1,0 +1,23 @@
+---
+title: "SSH!-암호이론편 (Symmetrical and Asymmetrical Encryption)"
+date: 2018-10-28 08:26:28 -0400
+categories: ssh webdev web encryption symmetrical asymmetrical key exchange algorithm diffie hellman elliptic curve cryptography
+---
+
+<b>Symmetrical Encryption</b>
+
+Symmetrical Encryption이란 서로 암호 통신을 하고자하는 객체 Alice와 Bob이 동일한 키를 가지고 그 키를 통해 암호화된 컨텐츠를 주고 받는 방식이다. Alice와 Bob은 동일한 키를 가지고 있으니 복호화 해서 컨텐츠를 해독할 수 있다. 하지만 이 방식에는 문제가 있으니 바로 둘이 키를 공유하지 않는 처음에는 어떻게 동일한 키를 공유하게 하느냐가 문제이다. 둘 중 한 사람이 키를 생성해서 다른 한 사람에게 보내주면 되지 않냐고? 그럼 보내주는 그 키는 어떻게 암호화 할 것인데? 그렇지 않으면 둘의 통신을 엿듣고 있던 해커가 그 키를 볼 수도 있을텐데?
+
+
+```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+```
+
+지난 회 [SSH!-실습편] 확인은 이곳에서! : [SSH!-실습편]
+
+<a href='https://www.youtube.com/watch?v=NF1pwjL9-DE'>Elliptic Curves - Computerphile<a>
+
+
+[SSH!-실습편]: https://github.com/dgsung/dgsung.github.io/blob/master/_posts/2018-10-28-third-post.md
